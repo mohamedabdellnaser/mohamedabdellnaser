@@ -23,4 +23,3 @@ Volunteering matters to me — I enjoy bringing people together around a useful 
 ## 🌐 Find me
 
 - Website: https://mohamedabdellnaser.github.io/
-- Tech World on Facebook: https://www.facebook.com/profile.php?id=61596461774909
