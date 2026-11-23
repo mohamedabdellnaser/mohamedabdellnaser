@@ -12,10 +12,6 @@ I lead a customer support team for Microsoft Dynamics 365 Finance & Operations �
 - AI tools for creating images and video, and for building websites
 - English — currently improving, one class at a time
 
-## 🛠️ A project I built
-
-- **«Before You Click»** — an interactive awareness experience: five imagined online scenarios that teach you to pause and verify before clicking. Live on my website.
-
 ## 🤝 Beyond work
 
 Volunteering matters to me — I enjoy bringing people together around a useful goal, coordinating teams, and taking responsibility in volunteer work.
